@@ -1,0 +1,10 @@
+sql
+node_modules
+dumpData
+# db.js
+# file-handler.js
+# helper.js
+# index.js
+# package-lock.json
+# package.json
+# .gitignore
